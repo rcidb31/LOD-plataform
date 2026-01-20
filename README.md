@@ -3,7 +3,8 @@
 
 > Digitalización del Libro de Obras con integración de Inteligencia Artificial para la industria de la construcción.
 
-![Mockup de la Aplicación](AQUI_LINK_DE_TU_IMAGEN)
+![Mockup de la Aplicación](<img width="1366" height="768" alt="lod-mockup" src="https://github.com/user-attachments/assets/e4e3af3d-6705-4d8a-94de-421e63245001" />)
+
 
 ## 📋 Descripción del Proyecto
 
